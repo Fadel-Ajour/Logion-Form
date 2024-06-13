@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(72, 15, 146);
+    height: 50vh;
+}
+.Logion-Form{
+    background-color: white;
+    width: 315px;
+    height: 400px;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 10%;    
+    border-radius: 5px;
+
+}
+
+
+.Logion-Form h3 {
+    padding-top: 23px;
+    color: black;
+}
+.p-email {
+    margin-right: 82px;
+    width: 60%;
+    margin-left: 53px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.email {
+    display: block;
+    font-size: 12px;
+    text-align: left;
+    /* margin-left: 44px; */
+    margin-bottom: 3px;
+
+}
+.input-email {
+    width: 195px;
+    height: 23px;}
+.p-password {
+    padding: 10px 10px 0 10px;
+
+}
+.password {
+    display: block;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 52px;    
+    margin-bottom: 3px;
+
+}
+.input-password {
+    width: 195px;
+    height: 23px;
+    margin-left: 10px;
+}
+.a1 {
+    display: block;
+    font-size: 12px;
+    text-decoration: none;
+    text-align: left;
+    margin-left: 64px;
+    /* margin-top: 0px; */
+}
+button{
+    height: 28px;
+    width: 69%;
+    text-align: center;
+    margin-right: 27px;
+    margin-top: 40px;
+    background-color: rgb(72, 15, 146);
+    margin-left: 41px;
+    color: white;
+}
+.Logion-Form p {
+display: inline-block;
+margin-top: 40px;
+}
+.a2 {
+    text-decoration: none;
+}
